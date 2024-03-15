@@ -3,7 +3,6 @@ public:
     bool isPerfectSquare(int num) {
         int start = 1;
         int end = num;
-
         while(start <= end)
         {
             long long mid = start + (end - start) / 2;
