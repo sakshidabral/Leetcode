@@ -30,4 +30,8 @@
 | ------- |
 | [0001-two-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0001-two-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
