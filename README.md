@@ -34,5 +34,10 @@
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sakshidabral/LC-POTD/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sakshidabral/LC-POTD/tree/master/2649-count-total-number-of-colored-cells) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/sakshidabral/LC-POTD/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
