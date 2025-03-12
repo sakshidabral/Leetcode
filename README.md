@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -46,10 +47,12 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshidabral/LC-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshidabral/LC-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
