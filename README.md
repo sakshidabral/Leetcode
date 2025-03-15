@@ -12,6 +12,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshidabral/LC-POTD/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshidabral/LC-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/sakshidabral/LC-POTD/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshidabral/LC-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/sakshidabral/LC-POTD/tree/master/2690-house-robber-iv) |
 ## Counting
 |  |
 | ------- |
