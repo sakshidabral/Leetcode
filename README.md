@@ -10,6 +10,7 @@
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2478-longest-nice-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshidabral/LC-POTD/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshidabral/LC-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sakshidabral/LC-POTD/tree/master/2665-minimum-time-to-repair-cars) |
@@ -61,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshidabral/LC-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
