@@ -18,6 +18,7 @@
 | [2690-house-robber-iv](https://github.com/sakshidabral/LC-POTD/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshidabral/LC-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/sakshidabral/LC-POTD/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0018-4sum](https://github.com/sakshidabral/LC-POTD/tree/master/0018-4sum) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
+| [3430-count-days-without-meetings](https://github.com/sakshidabral/LC-POTD/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
