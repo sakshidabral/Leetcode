@@ -12,6 +12,7 @@
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2478-longest-nice-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/2478-longest-nice-subarray) |
@@ -114,6 +115,7 @@
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshidabral/LC-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -128,6 +130,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
