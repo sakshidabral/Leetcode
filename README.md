@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sakshidabral/LC-POTD/tree/master/0018-4sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshidabral/LC-POTD/tree/master/2551-apply-operations-to-an-array) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshidabral/LC-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -135,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
