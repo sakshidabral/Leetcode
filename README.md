@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sakshidabral/LC-POTD/tree/master/2610-closest-prime-numbers-in-range) |
@@ -146,4 +147,12 @@
 | ------- |
 | [0135-candy](https://github.com/sakshidabral/LC-POTD/tree/master/0135-candy) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
