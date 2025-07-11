@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshidabral/LC-POTD/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sakshidabral/LC-POTD/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
@@ -82,6 +83,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshidabral/LC-POTD/tree/master/0004-median-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshidabral/LC-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sakshidabral/LC-POTD/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sakshidabral/LC-POTD/tree/master/2690-house-robber-iv) |
@@ -155,4 +157,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshidabral/LC-POTD/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
