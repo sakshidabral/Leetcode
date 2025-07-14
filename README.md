@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshidabral/LC-POTD/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sakshidabral/LC-POTD/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sakshidabral/LC-POTD/tree/master/0135-candy) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sakshidabral/LC-POTD/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [3430-count-days-without-meetings](https://github.com/sakshidabral/LC-POTD/tree/master/3430-count-days-without-meetings) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -73,6 +76,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sakshidabral/LC-POTD/tree/master/0125-valid-palindrome) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshidabral/LC-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
