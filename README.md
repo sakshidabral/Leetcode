@@ -13,6 +13,7 @@
 | [0135-candy](https://github.com/sakshidabral/LC-POTD/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -47,6 +48,7 @@
 | [0018-4sum](https://github.com/sakshidabral/LC-POTD/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [3430-count-days-without-meetings](https://github.com/sakshidabral/LC-POTD/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -57,6 +59,7 @@
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -97,6 +100,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshidabral/LC-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Union Find
 |  |
@@ -108,6 +112,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 ## Prefix Sum
 |  |
@@ -168,4 +173,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshidabral/LC-POTD/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
