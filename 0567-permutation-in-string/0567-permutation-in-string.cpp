@@ -1,16 +1,21 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int l1 = s1.size(), l2 = s2.size();
-        if(l1 > l2) return false;
+        vector<int> f1(26,0);
 
-        sort(begin(s1), end(s1));
+        for(char c : s1){
+            f1[c-'a']++;
+        }
 
-        for(int l=0; l<=l2-l1; l++){
-            string s = s2.substr(l,l1);
-            sort(begin(s), end(s));
+        int n1 = s1.size(), n2 = s2.size();
+        for(int i=0; i<=n2-n1; i++){
+            vector<int> f2(26,0);
+            string s = s2.substr(i,n1);
+            for(char c : s){
+                f2[c-'a']++;
+            }
 
-            if(s == s1) return true;
+            if(f1 == f2) return true;
         }
 
         return false;
