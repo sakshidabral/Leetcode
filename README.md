@@ -21,6 +21,7 @@
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0792-binary-search](https://github.com/sakshidabral/LC-POTD/tree/master/0792-binary-search) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshidabral/LC-POTD/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/sakshidabral/LC-POTD/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshidabral/LC-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sakshidabral/LC-POTD/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sakshidabral/LC-POTD/tree/master/2690-house-robber-iv) |
