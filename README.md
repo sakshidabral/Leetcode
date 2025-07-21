@@ -109,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/sakshidabral/LC-POTD/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sakshidabral/LC-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshidabral/LC-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3396-valid-word](https://github.com/sakshidabral/LC-POTD/tree/master/3396-valid-word) |
