@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/sakshidabral/LC-POTD/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshidabral/LC-POTD/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/sakshidabral/LC-POTD/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sakshidabral/LC-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sakshidabral/LC-POTD/tree/master/2665-minimum-time-to-repair-cars) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakshidabral/LC-POTD/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
