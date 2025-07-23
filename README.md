@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sakshidabral/LC-POTD/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshidabral/LC-POTD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sakshidabral/LC-POTD/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
