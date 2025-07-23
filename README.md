@@ -24,6 +24,7 @@
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sakshidabral/LC-POTD/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sakshidabral/LC-POTD/tree/master/0907-koko-eating-bananas) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
@@ -244,9 +245,11 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
