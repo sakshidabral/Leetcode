@@ -26,6 +26,7 @@
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sakshidabral/LC-POTD/tree/master/0792-binary-search) |
+| [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/sakshidabral/LC-POTD/tree/master/0907-koko-eating-bananas) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -70,6 +71,7 @@
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [3430-count-days-without-meetings](https://github.com/sakshidabral/LC-POTD/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -246,6 +248,7 @@
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/sakshidabral/LC-POTD/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
@@ -253,6 +256,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/sakshidabral/LC-POTD/tree/master/0937-online-stock-span) |
 ## Design
 |  |
