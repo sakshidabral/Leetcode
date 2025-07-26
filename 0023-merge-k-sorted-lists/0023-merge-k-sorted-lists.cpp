@@ -11,28 +11,24 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, 
-                       function<bool(ListNode*, ListNode*)>> pq([](ListNode* a, ListNode* b) {
-                           return a->val > b->val;  // Min-heap based on node values
-                       });
-        
-        for (auto node : lists) {
-            if(node) pq.push(node);
+        priority_queue<int, vector<int>, greater<int>> pq;
+
+        for(auto list : lists){
+            while(list){
+                pq.push(list->val);
+                list = list->next;
+            }
         }
 
-        ListNode* temp = new ListNode(0);
-        ListNode* curr = temp;
+        ListNode* dummy = new ListNode(0);
+        ListNode* curr = dummy;
 
-        while (!pq.empty()) {
-            ListNode* node = pq.top();
+        while(!pq.empty()){
+            curr->next = new ListNode(pq.top());
             pq.pop();
-            
-            curr->next = node;
             curr = curr->next;
-
-            if (node->next) pq.push(node->next);
         }
 
-        return temp->next; 
+        return dummy->next;
     }
 };
