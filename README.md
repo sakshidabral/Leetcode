@@ -54,6 +54,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshidabral/LC-POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sakshidabral/LC-POTD/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -228,11 +229,13 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshidabral/LC-POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/sakshidabral/LC-POTD/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshidabral/LC-POTD/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshidabral/LC-POTD/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshidabral/LC-POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
