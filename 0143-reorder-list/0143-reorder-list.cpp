@@ -33,7 +33,7 @@ public:
             temp = temp->next;
         }
         
-        temp = head;
+        //temp = head;
         ListNode *curr = head;
         int loop = (count+1)/2 - 1;
         for(int k=0; k<loop; k++){
@@ -43,12 +43,12 @@ public:
 
         ListNode *p = head;
         while(!st.empty()){
-            ListNode *temp2 = st.top();
+            temp = st.top();
             st.pop();
 
             ListNode *next = p->next;
-            p->next = temp2;
-            temp2->next = next;
+            p->next = temp;
+            temp->next = next;
             p = next;
         }
 
