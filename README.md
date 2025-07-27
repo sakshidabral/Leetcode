@@ -88,6 +88,7 @@
 | [0076-minimum-window-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sakshidabral/LC-POTD/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/sakshidabral/LC-POTD/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
@@ -232,6 +233,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshidabral/LC-POTD/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/sakshidabral/LC-POTD/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sakshidabral/LC-POTD/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sakshidabral/LC-POTD/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/sakshidabral/LC-POTD/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakshidabral/LC-POTD/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sakshidabral/LC-POTD/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
