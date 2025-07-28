@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sakshidabral/LC-POTD/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshidabral/LC-POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0090-subsets-ii) |
@@ -124,6 +125,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sakshidabral/LC-POTD/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +211,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -268,6 +271,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakshidabral/LC-POTD/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
@@ -314,6 +318,7 @@
 | [0040-combination-sum-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sakshidabral/LC-POTD/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sakshidabral/LC-POTD/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
