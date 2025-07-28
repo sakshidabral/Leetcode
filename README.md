@@ -125,6 +125,7 @@
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sakshidabral/LC-POTD/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakshidabral/LC-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -222,6 +223,7 @@
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -313,4 +315,5 @@
 | [0046-permutations](https://github.com/sakshidabral/LC-POTD/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sakshidabral/LC-POTD/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
