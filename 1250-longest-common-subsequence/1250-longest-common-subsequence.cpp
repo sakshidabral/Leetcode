@@ -1,19 +1,24 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string t1, string t2) {
-        int m = t1.size(), n = t2.size();
-        vector<vector<int>> dp(m+1, vector<int>(n+1,-1));
+    int longestCommonSubsequence(string s1, string s2) {
+        int m = s1.size(), n = s2.size();
+        vector<vector<int>> dp(m, vector<int>(n, -1));
 
-        return lcs(m, n, t1, t2, dp);
+        return solve(0, 0, m, n, s1, s2, dp);
     }
-    int lcs(int m, int n, string& s1, string& s2, vector<vector<int>>& dp){
-        if(m==0 || n==0) return dp[m][n] = 0;
-        if(dp[m][n] != -1) return dp[m][n];
 
-        if(s1[m-1] == s2[n-1]){
-            return 1 + lcs(m-1, n-1, s1, s2, dp);
+    int solve(int i, int j, int m, int n, string& s1, string& s2, vector<vector<int>>& dp){
+        if(i == m || j == n) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+
+        if(s1[i] == s2[j]){
+            return dp[i][j] = 1 + solve(i+1, j+1, m, n, s1, s2, dp);
         }
-
-        return dp[m][n] = max( lcs(m-1, n, s1, s2, dp), lcs(m, n-1, s1, s2, dp));
+        else{
+            int move_i = solve(i+1, j, m, n, s1, s2, dp);
+            int move_j = solve(i, j+1, m, n, s1, s2, dp);
+            return dp[i][j] = max(move_i, move_j);
+        }
+        
     }
 };
