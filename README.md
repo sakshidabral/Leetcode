@@ -28,6 +28,7 @@
 | [0135-candy](https://github.com/sakshidabral/LC-POTD/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshidabral/LC-POTD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/sakshidabral/LC-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0213-house-robber-ii) |
@@ -246,6 +247,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sakshidabral/LC-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sakshidabral/LC-POTD/tree/master/0300-longest-increasing-subsequence) |
