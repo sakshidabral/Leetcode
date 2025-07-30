@@ -68,6 +68,7 @@
 | [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshidabral/LC-POTD/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -137,6 +138,7 @@
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakshidabral/LC-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -238,6 +240,7 @@
 | [0198-house-robber](https://github.com/sakshidabral/LC-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sakshidabral/LC-POTD/tree/master/0322-coin-change) |
+| [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshidabral/LC-POTD/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
 |  |
