@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/sakshidabral/LC-POTD/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/sakshidabral/LC-POTD/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/sakshidabral/LC-POTD/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sakshidabral/LC-POTD/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
