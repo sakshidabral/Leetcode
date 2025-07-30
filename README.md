@@ -134,6 +134,7 @@
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/sakshidabral/LC-POTD/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sakshidabral/LC-POTD/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
@@ -234,6 +235,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/sakshidabral/LC-POTD/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
