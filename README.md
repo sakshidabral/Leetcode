@@ -16,6 +16,7 @@
 | [0046-permutations](https://github.com/sakshidabral/LC-POTD/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sakshidabral/LC-POTD/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sakshidabral/LC-POTD/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
@@ -243,6 +244,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sakshidabral/LC-POTD/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/sakshidabral/LC-POTD/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sakshidabral/LC-POTD/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
