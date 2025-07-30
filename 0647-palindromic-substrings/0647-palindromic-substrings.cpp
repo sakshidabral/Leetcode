@@ -2,29 +2,28 @@ class Solution {
 public:
     int countSubstrings(string s) {
         int n = s.size();
-        int i = 0, j = 0;
         int count = 0;
+        vector<vector<int>> dp(n, vector<int>(n, -1));
 
-        while(i < n){
-            string str = s.substr(i, j-i+1);
-            if(isPalin(str)) count++;
-            j++;
-            if(j == n){
-                i++;
-                j = i;
+        for(int i=0; i<n; i++){
+            for(int j=i; j<n; j++){
+                if(isPalin(i, j, s, dp)){
+                    count++;
+                }
             }
         }
 
         return count;
     }
 
-    bool isPalin(string s){
-        int i = 0, j = s.size()-1;
-        while(i < j){
-            if(s[i] != s[j]) return false;
-            i++;
-            j--;
+    bool isPalin(int i, int j, string& s, vector<vector<int>>& dp){
+        if(i >= j) return true;
+        if(dp[i][j] != -1) return dp[i][j];
+
+        if(s[i] == s[j]){
+            return dp[i][j] = isPalin(i+1, j-1, s, dp);
         }
-        return true;
+
+        return dp[i][j] = false;
     }
 };
