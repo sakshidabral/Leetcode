@@ -1,26 +1,26 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-        return solve(s, p);
+        return solve(0 ,0, s, p);
     }
 
-    bool solve(string s, string p){
-        if(p.size() == 0){
-            return s.size() == 0;
+    bool solve(int i, int j, string& s, string& p){
+        if(j == p.size()){
+            return i == s.size();
         }
         
         bool first_char_matched = false;
 
-        if(s.size() > 0 && (p[0] == s[0] || p[0] == '.')){
+        if(i < s.size() && (p[j] == s[i] || p[j] == '.')){
             first_char_matched = true;
         }
 
-        if(p.size() >=2 && p[1] == '*'){
-            bool skip = solve(s, p.substr(2));
-            bool take = first_char_matched && solve(s.substr(1), p);
+        if(p[j+1] == '*'){
+            bool skip = solve(i, j+2, s, p);
+            bool take = first_char_matched && solve(i+1, j, s, p);
             return skip || take;
         }
         
-        return first_char_matched && solve(s.substr(1), p.substr(1));
+        return first_char_matched && solve(i+1, j+1, s, p);
     }
 };
