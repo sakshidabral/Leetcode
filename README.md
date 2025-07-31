@@ -140,6 +140,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshidabral/LC-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/sakshidabral/LC-POTD/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakshidabral/LC-POTD/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sakshidabral/LC-POTD/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0076-minimum-window-substring) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshidabral/LC-POTD/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/sakshidabral/LC-POTD/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/sakshidabral/LC-POTD/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sakshidabral/LC-POTD/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0063-unique-paths-ii) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshidabral/LC-POTD/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/sakshidabral/LC-POTD/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshidabral/LC-POTD/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
 ## Divide and Conquer
