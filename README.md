@@ -24,6 +24,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshidabral/LC-POTD/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/sakshidabral/LC-POTD/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
@@ -261,6 +262,7 @@
 | [0091-decode-ways](https://github.com/sakshidabral/LC-POTD/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/sakshidabral/LC-POTD/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sakshidabral/LC-POTD/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/sakshidabral/LC-POTD/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
