@@ -49,6 +49,7 @@
 | [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshidabral/LC-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/sakshidabral/LC-POTD/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/sakshidabral/LC-POTD/tree/master/0907-koko-eating-bananas) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
@@ -98,6 +99,7 @@
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [3430-count-days-without-meetings](https://github.com/sakshidabral/LC-POTD/tree/master/3430-count-days-without-meetings) |
@@ -121,6 +123,7 @@
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [1813-maximum-erasure-value](https://github.com/sakshidabral/LC-POTD/tree/master/1813-maximum-erasure-value) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -291,6 +294,7 @@
 | [0135-candy](https://github.com/sakshidabral/LC-POTD/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
