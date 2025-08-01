@@ -79,6 +79,7 @@
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/sakshidabral/LC-POTD/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -119,6 +120,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [1813-maximum-erasure-value](https://github.com/sakshidabral/LC-POTD/tree/master/1813-maximum-erasure-value) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -157,6 +159,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/sakshidabral/LC-POTD/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakshidabral/LC-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -287,6 +290,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sakshidabral/LC-POTD/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
