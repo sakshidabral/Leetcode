@@ -248,11 +248,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/sakshidabral/LC-POTD/tree/master/0322-coin-change) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -406,9 +408,11 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
