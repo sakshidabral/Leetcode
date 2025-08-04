@@ -118,6 +118,7 @@
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sakshidabral/LC-POTD/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
@@ -160,6 +161,7 @@
 | [0125-valid-palindrome](https://github.com/sakshidabral/LC-POTD/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sakshidabral/LC-POTD/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/sakshidabral/LC-POTD/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -403,6 +406,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
