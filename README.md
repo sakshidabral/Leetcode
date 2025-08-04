@@ -54,6 +54,7 @@
 | [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/sakshidabral/LC-POTD/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/sakshidabral/LC-POTD/tree/master/0940-fruit-into-baskets) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -127,6 +128,7 @@
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/sakshidabral/LC-POTD/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/sakshidabral/LC-POTD/tree/master/1813-maximum-erasure-value) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakshidabral/LC-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -182,6 +184,7 @@
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/sakshidabral/LC-POTD/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/sakshidabral/LC-POTD/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sakshidabral/LC-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/2478-longest-nice-subarray) |
