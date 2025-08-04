@@ -35,6 +35,7 @@
 | [0152-maximum-product-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshidabral/LC-POTD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/sakshidabral/LC-POTD/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sakshidabral/LC-POTD/tree/master/0238-product-of-array-except-self) |
@@ -162,6 +163,7 @@
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
@@ -350,6 +352,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sakshidabral/LC-POTD/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sakshidabral/LC-POTD/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
@@ -401,12 +404,14 @@
 | [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
