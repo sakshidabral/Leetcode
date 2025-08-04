@@ -251,6 +251,7 @@
 | [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -414,6 +415,7 @@
 | [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -421,6 +423,7 @@
 | [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
