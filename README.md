@@ -250,6 +250,7 @@
 | [0079-word-search](https://github.com/sakshidabral/LC-POTD/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
@@ -280,6 +281,7 @@
 | [0118-pascals-triangle](https://github.com/sakshidabral/LC-POTD/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshidabral/LC-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sakshidabral/LC-POTD/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sakshidabral/LC-POTD/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sakshidabral/LC-POTD/tree/master/0152-maximum-product-subarray) |
@@ -414,6 +416,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
@@ -422,6 +425,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
