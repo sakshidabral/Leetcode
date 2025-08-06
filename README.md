@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshidabral/LC-POTD/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshidabral/LC-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
@@ -243,6 +244,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
@@ -260,6 +262,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -269,6 +272,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/sakshidabral/LC-POTD/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
