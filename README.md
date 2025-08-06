@@ -244,6 +244,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sakshidabral/LC-POTD/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -252,6 +253,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sakshidabral/LC-POTD/tree/master/0207-course-schedule) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
@@ -261,6 +263,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/sakshidabral/LC-POTD/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
@@ -271,6 +274,7 @@
 | [0100-same-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshidabral/LC-POTD/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/sakshidabral/LC-POTD/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/sakshidabral/LC-POTD/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
