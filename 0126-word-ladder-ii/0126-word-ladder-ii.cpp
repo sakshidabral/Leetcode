@@ -1,54 +1,54 @@
 class Solution {
-private:
-    void dfs(string word, const string& beginWord, 
-    unordered_map<string, vector<string>>& parent, 
-    vector<string>& path, vector<vector<string>>& res) {
-        if (word == beginWord) {
-            vector<string> temp = path;
-            reverse(temp.begin(), temp.end());
-            res.push_back(temp);
+public:
+    void findAllPath(vector<vector<string>> &res, string currentWord, string beginWord, unordered_map<string, vector<string>> &parents, vector<string> path) {
+        if(currentWord == beginWord) {
+            path.push_back(beginWord);
+            reverse(path.begin(), path.end());
+            res.push_back(path);
             return;
         }
-        for (const auto& p : parent[word]) {
-            path.push_back(p);
-            dfs(p, beginWord, parent, path, res);
+        for(auto word: parents[currentWord]) {
+            path.push_back(currentWord);
+            findAllPath(res, word, beginWord, parents, path);
             path.pop_back();
         }
     }
-public:
-    vector<vector<string>> findLadders(string beginWord, string endWord, 
-    vector<string>& wordList) {
-        unordered_set<string> dict(wordList.begin(), wordList.end());
-        if (dict.find(endWord) == dict.end()) return {};
-        unordered_map<string, vector<string>> parent;
-        unordered_set<string> cur, next, visited;
-        cur.insert(beginWord);
-        bool found = false;
-        while (!cur.empty() && !found) {
-            for (const auto& word : cur) visited.insert(word);
-            for (const auto& word : cur) {
-                string temp = word;
-                for (int i = 0; i < temp.size(); ++i) {
-                    char ch = temp[i];
-                    for (char c = 'a'; c <= 'z'; ++c) {
+    
+    vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
+        unordered_map<string, bool> wordMap;
+        unordered_map<string, vector<string>> parents;
+        unordered_map<string, int> levels;
+        for(auto word: wordList) {
+            wordMap[word] = true;
+        }
+        queue<string> q;
+        q.push(beginWord);
+        int level = 0;
+        levels[beginWord] = 0;
+        while(!q.empty()) {
+            string s = q.front();
+            q.pop();
+            for(int i=0; i<s.size(); i++) {
+                string temp = s;
+                for(char c='a'; c<='z'; c++) {
+                    if(s[i] != c) {
                         temp[i] = c;
-                        if (dict.count(temp) && !visited.count(temp)) {
-                            next.insert(temp);
-                            parent[temp].push_back(word);
-                            if (temp == endWord) found = true;
+                        if(wordMap.count(temp) && (levels[temp] == 0 || levels[temp] > levels[s] + 1)) {
+                            q.push(temp);
+                            parents[temp].clear();
+                            parents[temp].push_back(s);
+                            levels[temp] = levels[s] + 1;
+                        } else if(wordMap.count(temp) && levels[temp] == levels[s] + 1) {
+                            parents[temp].push_back(s);
                         }
                     }
-                    temp[i] = ch;
                 }
             }
-            cur.swap(next);
-            next.clear();
+            level++;
         }
-
         vector<vector<string>> res;
-        if (!found) return res;
-        vector<string> path{endWord};
-        dfs(endWord, beginWord, parent, path, res);
+        vector<string> path;
+        findAllPath(res, endWord, beginWord, parents, path);
         return res;
     }
 };
