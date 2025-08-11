@@ -228,6 +228,7 @@
 | [0239-sliding-window-maximum](https://github.com/sakshidabral/LC-POTD/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 ## Prefix Sum
 |  |
@@ -255,6 +256,7 @@
 | [0207-course-schedule](https://github.com/sakshidabral/LC-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -282,6 +284,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/sakshidabral/LC-POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -298,6 +301,7 @@
 | [0322-coin-change](https://github.com/sakshidabral/LC-POTD/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sakshidabral/LC-POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
@@ -483,4 +487,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
