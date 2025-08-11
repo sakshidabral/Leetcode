@@ -51,6 +51,7 @@
 | [0494-target-sum](https://github.com/sakshidabral/LC-POTD/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sakshidabral/LC-POTD/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/sakshidabral/LC-POTD/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshidabral/LC-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/sakshidabral/LC-POTD/tree/master/0792-binary-search) |
@@ -106,6 +107,7 @@
 | [0217-contains-duplicate](https://github.com/sakshidabral/LC-POTD/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sakshidabral/LC-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sakshidabral/LC-POTD/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/sakshidabral/LC-POTD/tree/master/0883-car-fleet) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
@@ -131,6 +133,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sakshidabral/LC-POTD/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sakshidabral/LC-POTD/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/sakshidabral/LC-POTD/tree/master/0940-fruit-into-baskets) |
@@ -175,6 +178,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sakshidabral/LC-POTD/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sakshidabral/LC-POTD/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/sakshidabral/LC-POTD/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/sakshidabral/LC-POTD/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sakshidabral/LC-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -219,6 +223,7 @@
 | [0130-surrounded-regions](https://github.com/sakshidabral/LC-POTD/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sakshidabral/LC-POTD/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sakshidabral/LC-POTD/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sakshidabral/LC-POTD/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
@@ -288,6 +293,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/sakshidabral/LC-POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sakshidabral/LC-POTD/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/sakshidabral/LC-POTD/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
@@ -305,6 +311,7 @@
 | [0322-coin-change](https://github.com/sakshidabral/LC-POTD/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sakshidabral/LC-POTD/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sakshidabral/LC-POTD/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
