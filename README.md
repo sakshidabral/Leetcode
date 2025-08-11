@@ -61,6 +61,7 @@
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sakshidabral/LC-POTD/tree/master/1706-min-cost-to-connect-all-points) |
 | [1813-maximum-erasure-value](https://github.com/sakshidabral/LC-POTD/tree/master/1813-maximum-erasure-value) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sakshidabral/LC-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -219,6 +220,7 @@
 | [0200-number-of-islands](https://github.com/sakshidabral/LC-POTD/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sakshidabral/LC-POTD/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sakshidabral/LC-POTD/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshidabral/LC-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
@@ -259,6 +261,7 @@
 | [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sakshidabral/LC-POTD/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sakshidabral/LC-POTD/tree/master/1706-min-cost-to-connect-all-points) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sakshidabral/LC-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/sakshidabral/LC-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sakshidabral/LC-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -491,4 +494,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sakshidabral/LC-POTD/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/sakshidabral/LC-POTD/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
