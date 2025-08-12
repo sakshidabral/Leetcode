@@ -352,6 +352,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/sakshidabral/LC-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/sakshidabral/LC-POTD/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sakshidabral/LC-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sakshidabral/LC-POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
 |  |
 | ------- |
