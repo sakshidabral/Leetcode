@@ -149,6 +149,7 @@
 | [0062-unique-paths](https://github.com/sakshidabral/LC-POTD/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshidabral/LC-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/sakshidabral/LC-POTD/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -383,6 +384,7 @@
 | [0010-regular-expression-matching](https://github.com/sakshidabral/LC-POTD/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshidabral/LC-POTD/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/sakshidabral/LC-POTD/tree/master/0143-reorder-list) |
+| [0326-power-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
