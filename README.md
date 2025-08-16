@@ -152,6 +152,7 @@
 | [0326-power-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1448-maximum-69-number](https://github.com/sakshidabral/LC-POTD/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sakshidabral/LC-POTD/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sakshidabral/LC-POTD/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sakshidabral/LC-POTD/tree/master/2649-count-total-number-of-colored-cells) |
@@ -366,6 +367,7 @@
 | [0768-partition-labels](https://github.com/sakshidabral/LC-POTD/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/sakshidabral/LC-POTD/tree/master/0876-hand-of-straights) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1448-maximum-69-number](https://github.com/sakshidabral/LC-POTD/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
