@@ -62,6 +62,7 @@
 | [0940-fruit-into-baskets](https://github.com/sakshidabral/LC-POTD/tree/master/0940-fruit-into-baskets) |
 | [1184-car-pooling](https://github.com/sakshidabral/LC-POTD/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshidabral/LC-POTD/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sakshidabral/LC-POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sakshidabral/LC-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sakshidabral/LC-POTD/tree/master/1706-min-cost-to-connect-all-points) |
 | [1813-maximum-erasure-value](https://github.com/sakshidabral/LC-POTD/tree/master/1813-maximum-erasure-value) |
@@ -353,6 +354,7 @@
 | [0647-palindromic-substrings](https://github.com/sakshidabral/LC-POTD/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/sakshidabral/LC-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/sakshidabral/LC-POTD/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sakshidabral/LC-POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sakshidabral/LC-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sakshidabral/LC-POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Greedy
@@ -413,6 +415,7 @@
 | [0200-number-of-islands](https://github.com/sakshidabral/LC-POTD/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sakshidabral/LC-POTD/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sakshidabral/LC-POTD/tree/master/0417-pacific-atlantic-water-flow) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sakshidabral/LC-POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
