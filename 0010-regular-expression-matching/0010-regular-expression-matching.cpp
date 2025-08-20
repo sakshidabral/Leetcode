@@ -1,13 +1,15 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-        return solve(0 ,0, s, p);
+        vector<vector<int>> dp(s.size()+1, vector<int>(p.size()+1, -1));
+        return solve(0 ,0, s, p, dp);
     }
 
-    bool solve(int i, int j, string& s, string& p){
+    bool solve(int i, int j, string& s, string& p, vector<vector<int>> &dp){
         if(j == p.size()){
             return i == s.size();
         }
+        if(dp[i][j] != -1) return dp[i][j];
         
         bool first_char_matched = false;
 
@@ -16,11 +18,11 @@ public:
         }
 
         if(p[j+1] == '*'){
-            bool skip = solve(i, j+2, s, p);
-            bool take = first_char_matched && solve(i+1, j, s, p);
-            return skip || take;
+            bool skip = solve(i, j+2, s, p, dp);
+            bool take = first_char_matched && solve(i+1, j, s, p, dp);
+            return dp[i][j] = skip || take;
         }
         
-        return first_char_matched && solve(i+1, j+1, s, p);
+        return dp[i][j] = first_char_matched && solve(i+1, j+1, s, p, dp);
     }
 };
